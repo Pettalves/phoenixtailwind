@@ -18,3 +18,8 @@ Ready to run in production? Please [check our deployment guides](https://hexdocs
   * Docs: https://hexdocs.pm/phoenix
   * Forum: https://elixirforum.com/c/phoenix-forum
   * Source: https://github.com/phoenixframework/phoenix
+
+## Screenshot
+
+![image](https://user-images.githubusercontent.com/12205157/113736534-919a3380-96d3-11eb-9139-bdee57130802.png)
+
